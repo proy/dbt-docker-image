@@ -7,3 +7,5 @@ RUN apt-get update && apt-get -y upgrade
 
 CMD ["echo", "dbt snowflake image created and upgraded"]
 
+
+

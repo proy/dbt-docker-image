@@ -23,3 +23,5 @@ USER dbtuser
 WORKDIR /home/dbtuser
 CMD ["echo", "dbt snowflake image created and upgraded"]
 
+
+
